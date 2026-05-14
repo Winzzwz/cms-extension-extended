@@ -1,7 +1,7 @@
 # CMS Extension (Extended Version)
 
 Extension for CMS grader (Extended Version).
-- This version is only support for TamperMonkey.
+- This version only support for TamperMonkey.
 - I vibe-coded this :>
 
 # Preview
@@ -10,5 +10,6 @@ Extension for CMS grader (Extended Version).
 
 # How to install
 
-Use [TamperMonkey](https://www.tampermonkey.net/index.php?locale=en).
+Use [TamperMonkey](https://www.tampermonkey.net/index.php?locale=en) to use this Userscript.
+
 How to install a Userscript? Figure it out yourself.
