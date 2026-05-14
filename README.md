@@ -1,7 +1,7 @@
 # CMS Extension (Extended Version)
 
 Extension for CMS grader (Extended Version).
-- This version only support for TamperMonkey.
+- This version only support for TamperMonkey (or something that can execute script on page).
 - I vibe-coded this :>
 
 # Preview
